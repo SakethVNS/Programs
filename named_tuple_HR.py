@@ -1,4 +1,6 @@
 """
+Print the average marks of the list corrected to 2 decimal places. marks is at any position in the table
+
 namedtuple: >>> from collections import namedtuple
 >>> Car = namedtuple('Car','Price Mileage Colour Class')
 >>> xyz = Car(Price = 100000, Mileage = 30, Colour = 'Cyan', Class = 'Y')
